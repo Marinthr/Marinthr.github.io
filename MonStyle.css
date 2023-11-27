@@ -1,0 +1,52 @@
+body { 
+    background-color: #FFFF99;
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;
+}
+#Titre1 {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    
+ }
+ h1 {
+    color: green;
+    font-size: 35px ;
+    text-align: justify left;
+    text-decoration: underline;
+ }
+ img {
+     width: 15% ;
+     border: 5px solid red;
+     border-radius: 10px;
+     background-color: blue;
+     padding: 10px;
+     position: fixed;
+     top: 20px;
+     right: 20px;
+     z-index: -1;
+ }
+ table{
+    border: 2px solid red;
+    text-align: center;
+    width: 50%;
+    border-collapse: collapse;
+    position: relative;
+    left: 25%;
+ }
+ td{
+    width: 10%;
+    border: 2px solid red;
+    border-collapse: collapse;
+ }
+ th{
+    width: 10%;
+    border: 2px solid red;
+    border-collapse: collapse;
+    font-size: 25px;
+    color: green;  
+ }
+ ul{
+    text-align: left;
+ }
