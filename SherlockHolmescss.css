@@ -74,6 +74,7 @@ body {
      z-index: -1;
      border: 2px solid rgb( 13, 2, 75) ;
      border-radius: 10px;
+     position: static;
 }
 
 .logo{
@@ -128,6 +129,13 @@ margin-left: 30%;
   margin-bottom: 100%;
   z-index: -1;
 }
+.img6{
+  width: 25%;
+  position: absolute;
+  margin-left: 65% ;
+  margin-bottom: 100%;
+  z-index: -1;
+}
 
 .erpara{
   margin-top: 500px;
@@ -143,6 +151,9 @@ margin-left: 30%;
   position: absolute;
   margin-top: 10px;
   margin-left: 20px;
+}
+.block{
+  position: static;
 }
 
 table{
@@ -171,4 +182,7 @@ td{
 }
 .aucentre{
   margin-left: 25%;
+}
+.tailletextp{
+  font-size:xx-large ;
 }
