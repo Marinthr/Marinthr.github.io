@@ -13,9 +13,24 @@
     text-align: center;
  }
 
- img {
+ #calendrier {
     width: 50% ;
     position : relative;
     left: 25%;
     margin-top: 50px;
  }
+
+ #fondecran{
+   margin-top: 0%;
+   margin-left: 0%;
+   position: absolute;
+   z-index: -1;
+   width: 100%;
+}
+#fondecran2{
+   margin-top: 50%;
+   margin-left: 0%;
+   position: absolute;
+   z-index: -1;
+   width: 100%;
+}
