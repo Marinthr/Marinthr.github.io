@@ -11,6 +11,7 @@
 
  p{
     text-align: center;
+    font-size: x-large;
  }
 
  #calendrier {
@@ -19,6 +20,7 @@
     left: 25%;
     margin-top: 50px;
  }
+
 
  #fondecran{
    margin-top: 0%;
@@ -33,4 +35,24 @@
    position: absolute;
    z-index: -1;
    width: 100%;
+}
+.titre{
+   text-align: center;
+   text-decoration: underline;
+   font-size:xx-large;
+   margin-bottom: 10px;
+ }
+ .liste{
+   font-size: x-large;
+ }
+ .Contact{
+   margin-top: 20px;
+   margin-left: 10px;
+   background-color: rgb(45, 165, 235);
+   color: #eee;
+   text-align: left;
+   z-index: -1;
+   border: 2px solid rgb(45, 165, 235) ;
+   border-radius: 10px;
+   position: static;
 }
